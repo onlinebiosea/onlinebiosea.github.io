@@ -635,7 +635,11 @@
               }
             },
             "H4": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#232323"
+            },
+            ".panel-text": {
+              "color": "#4f4943"
             }
           },
           "_name": "toggle1",
@@ -691,7 +695,8 @@
               }
             },
             "H4": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#232323"
             }
           },
           "_name": "toggle1",
