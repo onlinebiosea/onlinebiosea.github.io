@@ -1339,12 +1339,12 @@ body {
 }
 .cid-qzBhvyzJtF .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #c5f4ff;
   transition: none;
   min-height: 77px;
 }
 .cid-qzBhvyzJtF .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #c5f4ff;
 }
 .cid-qzBhvyzJtF a {
   font-style: normal;
@@ -1428,7 +1428,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qzBhvyzJtF .dropdown .dropdown-menu {
-  background: #333333;
+  background: #c5f4ff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1714,15 +1714,24 @@ body {
 .cid-qzBhvyzJtF .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qzBhvANJ34 {
-  background-image: url("../../../assets/images/hgfd-1920x1200.jpg");
+.cid-qzYc5zcKeY {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/blue-sea-sea-blue-sky-white-clouds-ocean-scenery-1080p-wallpaper-1920x1080.jpg");
 }
-.cid-qzBhvANJ34 SPAN {
-  color: #93f9f7;
+.cid-qzYc5zcKeY .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
-.cid-qzBhvANJ34 .mbr-text,
-.cid-qzBhvANJ34 .mbr-section-btn {
-  color: #93f9f7;
+.cid-qzYc5zcKeY .mbr-figure img {
+  height: 100%;
+}
+@media (max-width: 991px) {
+  .cid-qzYc5zcKeY .mbr-figure img {
+    width: 100% !important;
+  }
 }
 .cid-qzGfBIO9dM {
   padding-top: 30px;
